@@ -1,0 +1,13 @@
+Vorlage für die Mapping-Field Dateien der einzelnene Anbieter. Bitte nicht verändern, sondern nur als Template nutzen.
+
+id - Unique ID of product. This field must be constant in your feed
+
+affiliate link – Link to product with your affiliate parameter.
+
+is in stock – Supported values: "1", "true", "on" and "yes", "0", "false", "off", "no".
+
+availability - Supported values: "in stock", "out of stock".
+
+direct link – Direct URL on original product page without redirects and affiliate parameters.
+
+gtin - EAN 13-digit number like 3001234567892.
